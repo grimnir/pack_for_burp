@@ -25,7 +25,7 @@ The rules are optimized for fast execution and real-time feedback during analysi
 
 ## Use Case & Real-World Context
 
-During continuous monitoring of a client’s public exposure surface, no leaked credentials or datasets were found in known breach sources.
+During continuous monitoring (hirdman.pro) of a client’s public exposure surface, no leaked credentials or datasets were found in known breach sources.
 
 However:
 - An overlooked **subdomain** was identified
